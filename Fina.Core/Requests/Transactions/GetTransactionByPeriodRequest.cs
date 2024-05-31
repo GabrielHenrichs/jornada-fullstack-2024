@@ -1,4 +1,4 @@
-﻿namespace Fina.Core.Requests.Categories;
+﻿namespace Fina.Core.Requests.Transactions;
 
 public class GetTransactionByPeriodRequest : PagedRequest
 {

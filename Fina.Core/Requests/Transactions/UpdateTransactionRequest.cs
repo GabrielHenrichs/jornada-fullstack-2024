@@ -1,7 +1,7 @@
 ﻿using Fina.Core.Enums;
 using System.ComponentModel.DataAnnotations;
 
-namespace Fina.Core.Requests.Categories;
+namespace Fina.Core.Requests.Transactions;
 
 public class UpdateTransactionRequest : Request
 {
